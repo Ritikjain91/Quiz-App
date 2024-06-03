@@ -1,0 +1,21 @@
+/* Add this CSS to your stylesheet */
+.zoom {
+    transition: none !important;
+  }
+  
+  .position-relative {
+    transition: none !important;
+  }
+  
+  button {
+    transition: none !important;
+  }
+  
+  img {
+    transition: none !important;
+  }
+  
+  div {
+    transition: none !important;
+  }
+  
